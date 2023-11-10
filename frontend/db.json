@@ -1,0 +1,69 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "studentID": "2023-0001",
+      "surname": "Dela Cruz",
+      "middleName": "Dela",
+      "firstName": "Juan",
+      "sex": "Male",
+      "birthdate": "2000-01-01",
+      "address": "Manila",
+      "emailAddress": "jdc@gmail.com",
+      "schoolYear": "2021-2022",
+      "classSection": "A"
+    },
+    {
+      "id": 2,
+      "studentID": "2023-0002",
+      "surname": "Rizal",
+      "middleName": "Paciano",
+      "firstName": "Rizal",
+      "sex": "Male",
+      "birthdate": "1861-06-19",
+      "address": "Calamba, Laguna",
+      "emailAddress": "jdc@gmail.com",
+      "schoolYear": "2021-2022",
+      "classSection": "A"
+    },
+    {
+      "id": 3,
+      "studentID": "2023-0003",
+      "surname": "Quino",
+      "middleName": "Pasco",
+      "firstName": "Merlito Jr",
+      "sex": "Male",
+      "birthdate": "1988-06-18",
+      "address": "Maramag, Bukidnon",
+      "emailAddress": "merljustine@gmail.com",
+      "schoolYear": "2022-2023",
+      "classSection": "A"
+    },
+    {
+      "id": 4,
+      "studentID": "2023-0003",
+      "surname": "Quino",
+      "middleName": "Pasco",
+      "firstName": "Merlito Jr",
+      "sex": "male",
+      "birthdate": "1988-06-18",
+      "address": "Maramag, Bukidnon",
+      "emailAddress": "merljustine@gmail.com",
+      "schoolYear": "2022-2023",
+      "classSection": "B"
+    },
+    {
+      "id": 5,
+      "studentID": "2023-0003",
+      "surname": "Quino",
+      "middleName": "Pasco",
+      "firstName": "Merlito Jr",
+      "sex": "male",
+      "birthdate": "1988-06-18",
+      "address": "Maramag, Bukidnon",
+      "emailAddress": "merljustine@gmail.com",
+      "schoolYear": "2022-2023",
+      "classSection": "c"
+    }
+  ]
+}
